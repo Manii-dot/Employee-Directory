@@ -1,5 +1,4 @@
-{
-    "results": [
+[
     {
     "gender": "female",
     "name": {
@@ -5600,11 +5599,4 @@
     },
     "nat": "GB"
     }
-    ],
-    "info": {
-    "seed": "c7b6ed475c73cd48",
-    "results": 100,
-    "page": 1,
-    "version": "1.3"
-    }
-    }
+]
